@@ -1,3 +1,3 @@
 # sportsru
 
-### Repo with solution file for Sports.ru test case
+Repo with solution file for Sports.ru test case
